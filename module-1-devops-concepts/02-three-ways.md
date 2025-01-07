@@ -11,14 +11,14 @@ Quotes:
 
 Emphasis on the performance of the entire system as opposed to the performance of a specific silo. Promote collaboration accross functional lines. Focus on IT-enabled value streams.
 
-**Outcomes**
+**Outcomes**:
 
 - Stop passing defects downstreams
 - Not allowing local optimization
 - Always seek to increase flow
 - Profound understanding of the system
 
-**Examples of practical actions**
+**Examples of practical actions**:
 
 - Documenting value stream to see defects sent downstream
 - Discover sub-optimization
@@ -28,16 +28,16 @@ Emphasis on the performance of the entire system as opposed to the performance o
 
 A feedback loop is a process that allows for reflection on its own output before determining the next steps that need to be completed.
 
-**Outcomes**
+**Outcomes**:
 
 - Understanding and responding to all customers
 - Shortening and amplifying all feedback loops
 - Embedding knowledge where needed
 
-**Examples of practical actions**
+**Examples of practical actions**:
 
 - Build automated tests into pipeline
-	- Development will have feedback early
+  - Development will have feedback early
 - Embed operations engineers into dev team
 - Quality dashboards (e.g. percentage of test failed)
 
@@ -47,13 +47,13 @@ A feedback loop is a process that allows for reflection on its own output before
 - Encourage risk-taking and failing forward
 - Affirm that repetition in practice is a prerequisite to mastery
 
-**Outcome**
+**Outcome**:
 
 - Allocating time for improvement work
 - Reward teams for taking risks
 - Introduce faults into the system to increase resilience
 
-**Examples of practical actions**
+**Examples of practical actions**:
 
 - Required strategic alignment
 - Culture of innovation
@@ -71,4 +71,4 @@ Consider chaos engineering:
 
 - Chaos Monkey
 - Resilience Engineering to prepare for outages
-- Create a culture where it is safe to take risks
+- Create a culture where it is safe to take risk

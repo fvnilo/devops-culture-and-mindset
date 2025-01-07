@@ -53,9 +53,10 @@ System thinking. Do not focus on local optimization.
 ### Waste #1: Partially Done Work
 
 Examples:
-  - Completed code not checked into repository
-  - Undocumented code
-  - Untested Code
+
+- Completed code not checked into repository
+- Undocumented code
+- Untested Code
 
 It delays delivery of value and leads to quality issue.
 
@@ -69,7 +70,7 @@ Resurfacing decisions or informations is wasteful.
 
 ### Waste #4: Handoffs
 
-Each handoff requires a team to orient themselves with the work of the previous team(s). Includes back and forth communication. It creates delays. 
+Each handoff requires a team to orient themselves with the work of the previous team(s). Includes back and forth communication. It creates delays.
 
 ### Waste #5: Delays
 

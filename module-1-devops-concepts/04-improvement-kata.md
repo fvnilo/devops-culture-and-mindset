@@ -2,7 +2,7 @@
 
 Originates from Toyota production system. It is a process of **continuous improvement**.
 
-**Steps**
+## Steps
 
 1. Understand the **vision** and **direction** of the project.
 2. Analyze to understand the current condition.
@@ -10,7 +10,6 @@ Originates from Toyota production system. It is a process of **continuous improv
 4. Plan > Do > Check > Act (or Adjust) (PDCA) toward the target.
 
 _Example_: If the vision is to have 0 defects and every release has 20, aim for 10 because 0 isn't going to be achievable right away. Iterate towards 10. Use automated test scripts. Establish a checkpoint. Work toward the target.
-
 
 ## Real World Example at Nordstrom
 

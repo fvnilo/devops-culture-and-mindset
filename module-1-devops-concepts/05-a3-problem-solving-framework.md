@@ -44,7 +44,7 @@ _Example_: The team documents multiple symptoms and contributing factors. This c
 
 ### Step 5: Brainstorm
 
-How do we intend to reach the target condition? Determing countermeasures. 
+How do we intend to reach the target condition? Determing countermeasures.
 
 _Example_: Establish a gate to reduce the number of exception and expect to lower the number of incidents by 2.
 
@@ -65,4 +65,4 @@ _Example_: Create 15 additional automated test scripts and assign to QA manager.
 
 Update "standard work" based on steps taken.
 
-_Example_: Automated test scripts are checked in into a library and become part of the standard QA process.
+_Example_: Automated test scripts are checked in into a library and become part of the standard QA process

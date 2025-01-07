@@ -5,7 +5,6 @@ DevOps' roots lie in lean management
 - Deliver more value with less waste
 - Strong focus on respect for people
 
-
 Lean values in DevOps
 
 - Break down historic silos
@@ -23,6 +22,6 @@ Definitions:
 
 A full lifecycle of value delivery comprises of **Building**, **Deployment**, **Operating** and **Supporting**. This means that the whole organization needs a cultural change. (Development, Test, Release Managers, Operations. Everybody is accountable.)
 
-__Note__: DevSecOps includes security in the lifecycle.
+_Note_: DevSecOps includes security in the lifecycle.
 
 Should an organization create a "DevOps team"? It's about the culture rather than a team of saviors. It's about building practices around CALMS.
