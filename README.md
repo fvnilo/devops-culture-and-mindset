@@ -5,3 +5,4 @@
 ## Table of Contents
 
 - [Module 1: Introducing DevOps Concepts](/module-1/README.md)
+- [Module 2: Working With DevOps Mindset](/module-2-working-with-devops-mindset/README.md)
